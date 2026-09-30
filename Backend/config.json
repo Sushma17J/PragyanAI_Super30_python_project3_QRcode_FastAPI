@@ -5,7 +5,7 @@
 
     "cors_origins": [
         "*",
-        "https://thunderous-cobbler-aeaad8.netlify.app/"
+        "https://qrcode-generator-decoder-project.netlify.app"
     ],
 
     "max_upload_size_mb": 5
